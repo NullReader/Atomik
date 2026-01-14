@@ -2,7 +2,7 @@
   "name": "atomik-theme",
   "displayName": "atomik",
   "description": "A dark and minimal theme for Visual Studio Code",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "publisher": "nullreader",
   "icon": "icon.jpeg",
   "keywords": [

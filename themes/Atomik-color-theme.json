@@ -346,6 +346,44 @@
       "settings": {
         "foreground": "#e35845"
       }
+    },
+
+    {
+      "name": "quote.markdown",
+      "scope": [
+        "markup.quote.markdown",
+        "string.other.link.description.markdown",
+        "punctuation.definition.list.begin.markdown",
+        "meta.separator.markdown"
+      ],
+      "settings": {
+        "foreground": "#d2d833",
+        "fontStyle": "italic"
+      }
+    },
+
+    {
+      "name": "links.markdown",
+      "scope": [
+        "markup.link.markdown",
+        "markup.underline.link.image.markdown"
+      ],
+      "settings": {
+        "foreground": "#3294be",
+        "fontStyle": "underline"
+      }
+    },
+
+    {
+      "name": "list.text",
+      "scope": [
+        "markup.list.unnumbered.markdown",
+        "markup.list.numbered.markdown"
+      ],
+      "settings": {
+        "foreground": "#7a8190"
+      }
     }
+
   ]
 }

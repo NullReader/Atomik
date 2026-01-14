@@ -7,6 +7,20 @@ y este proyecto sigue un versionado simple.
 
 ---
 
+## [0.2.5] 2026-01-14
+
+### Addded
+- Soporte para archivos markdown
+
+### Changed
+- Correccion de tipado en CHANGELOG
+
+### Notes
+- Ahora el tema se puede usar con archivos .md sin ningun problema
+- Se corrigio una mescla en el log de las versiones [0.2.4] y [0.2.3]
+
+---
+
 ## [0.2.4] 2026-01-13
 
 ### Changed

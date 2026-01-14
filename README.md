@@ -15,12 +15,12 @@
    Este es un tema de <strong>VSCode</strong> que he decidido hacer para uso completamente personal, sin embargo me parecia un desperdicio el no publicarlo en algun lado para que el que quiera lo pueda usar.
 </p>
 
-##Detalles tecnicos
+## Detalles tecnicos
 
 Atomik comenzó a partir del generador de extensiones `yo generate-code`, pero la plantilla generada estaba algo desactualizada.  
 Por ese motivo decidí **descartar la plantilla base y construir la extensión desde cero**, adaptándola completamente a mis necesidades.
 
-   La paleta de colores abarca los siguientes lenguajes por ahora:
+La paleta de colores abarca los siguientes lenguajes por ahora:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
